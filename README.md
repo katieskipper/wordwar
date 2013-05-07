@@ -18,7 +18,9 @@ Change directory into the cloned repo and run the following:
 
 ```
 ~/code/wordwar(master ✓) ruby wordwar.rb 
-Play by completing ten words.
+
+Play by completing ten words with the prefixes given.
+For example, if you see 'ca' you could make a word like 'cat.'
 push
 :)
 sip
@@ -44,7 +46,7 @@ You have made 8 words out of ten.
 
 ## Is it any good?
 
-No. It uses OSX's dictionary file found in /usr/share/dict/words, which is incomplete. The list of prefixes is short as well. TODO: I need to add time limits and top scores.
+No. It uses OSX's dictionary file found in /usr/share/dict/words, which is incomplete. TODO: I need to add top scores.
 
 ## License
 
